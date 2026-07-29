@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lala906/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/lala906/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/lala906/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
