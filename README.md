@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lala906/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lala906/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lala906/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/lala906/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lala906/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
