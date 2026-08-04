@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lala906/leetcode/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/lala906/leetcode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -44,9 +45,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lala906/leetcode/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/lala906/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/lala906/leetcode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/lala906/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/lala906/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
