@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lala906/leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/lala906/leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/lala906/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lala906/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/lala906/leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/lala906/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/lala906/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/lala906/leetcode/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lala906/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
